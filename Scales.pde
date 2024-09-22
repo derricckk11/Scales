@@ -15,7 +15,7 @@ void draw() {
   // i will make a nested loop that repeatedly calls scale so that it draws a grid across the screen 
   
 
-translate(-10, -5);
+translate(-10, -15);
 
   for (int x = 0; x <= 500; x += 50) {
     
